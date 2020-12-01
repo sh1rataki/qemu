@@ -1,5 +1,6 @@
-    The QEMU build system architecture
-    ==================================
+==================================
+The QEMU build system architecture
+==================================
 
 This document aims to help developers understand the architecture of the
 QEMU build system. As with projects using GNU autotools, the QEMU build
